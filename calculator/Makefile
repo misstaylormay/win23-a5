@@ -1,3 +1,4 @@
+# makefile for the calculator program
 CC = gcc
 CFLAGS = -Wall
 
